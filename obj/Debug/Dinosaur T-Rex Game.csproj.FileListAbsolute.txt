@@ -1,0 +1,10 @@
+D:\GitHub Projects\Dinosaur T-Rex Game\bin\Debug\Dinosaur T-Rex Game.exe.config
+D:\GitHub Projects\Dinosaur T-Rex Game\bin\Debug\Dinosaur T-Rex Game.exe
+D:\GitHub Projects\Dinosaur T-Rex Game\bin\Debug\Dinosaur T-Rex Game.pdb
+D:\GitHub Projects\Dinosaur T-Rex Game\obj\Debug\Dinosaur T-Rex Game.csproj.AssemblyReference.cache
+D:\GitHub Projects\Dinosaur T-Rex Game\obj\Debug\Dinosaur T-Rex Game.csproj.SuggestedBindingRedirects.cache
+D:\GitHub Projects\Dinosaur T-Rex Game\obj\Debug\Dinosaur_T_Rex_Game.Properties.Resources.resources
+D:\GitHub Projects\Dinosaur T-Rex Game\obj\Debug\Dinosaur T-Rex Game.csproj.GenerateResource.cache
+D:\GitHub Projects\Dinosaur T-Rex Game\obj\Debug\Dinosaur T-Rex Game.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Dinosaur T-Rex Game\obj\Debug\Dinosaur T-Rex Game.exe
+D:\GitHub Projects\Dinosaur T-Rex Game\obj\Debug\Dinosaur T-Rex Game.pdb
